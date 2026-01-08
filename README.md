@@ -4,7 +4,7 @@
 - Student 1: Kashif Mohammed ( 12314586)
 - Student 2: Shiva Nagesh Dontika (12319395)
 - Campus: Melbourne campus
-- Tutor: Sunil Seneviratne
+- Tutor: David ling 
 
 ## Project Report
 
